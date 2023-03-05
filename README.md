@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm Usman Chaudhry</h1>
 <h3 align="center">My name is Usman Chaudhry. I have a bachelor's degree in computer science and I am a Software Development intern for the Los Angeles Metro in the Supervisory Control and Data Acquisition Department.</h3>
 
+-🚃 Systems Developer intern for the Los Angeles Metro
+
 - 🔭 I’m currently working at **An boxing timer app that allows users to record themselves while timer is being used.**
 
 - 👨‍💻 All of my projects are available at [https://usmanjchaudhry.github.io/portfolio-website/](https://usmanjchaudhry.github.io/portfolio-website/)
 
 - 📫 How to reach me **usmanjc98@gmail.com**
+
+⚡ Fun fact: My hobbies include rock climbing 🧗🏽‍♂️  and boxing 🥊!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
