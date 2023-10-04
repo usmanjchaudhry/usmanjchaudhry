@@ -9,5 +9,5 @@ My name is Usman Chaudhry. I have a bachelor's degree in computer science and I 
 - 📫 Come check out my Portfolio Site: https://usmanjchaudhry.github.io/portfolio-website/
 - ⚡ Fun fact: My hobbies include rock climbing 🧗🏽‍♂️  and boxing 🥊!
 
-SKILL SET: JavaScript, Python, Java, SQL, React, ExpressJs, Bootstrap, HTML, CSS, Jira, AWS
+SKILL SET: JavaScript, Python, Java, SQL, React, ExpressJs, Bootstrap, HTML, CSS
 
